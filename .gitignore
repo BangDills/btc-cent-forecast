@@ -1,0 +1,5 @@
+out/
+notes/
+__pycache__/
+*.pyc
+scratch/
